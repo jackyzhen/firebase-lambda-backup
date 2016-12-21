@@ -1,5 +1,5 @@
 # firebase-lambda-backup
-An aws lambda that does periodic backups of firebase
+An aws lambda that does periodic backups of firebase database to S3 as a json file.
 
 ## Usage
 
